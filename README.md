@@ -1,4 +1,4 @@
-![capitol](capitol.jpg)
+![capitol](\Elections_Analysis\Resources\capitol.jpg)
 
 # Elections_Analysis
 
