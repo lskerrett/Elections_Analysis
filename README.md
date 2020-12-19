@@ -1,7 +1,9 @@
+![capitol](/Resources/capitol.jpg)
+
 # Elections_Analysis
 
 ## Project overview 
-A Colorado Board of Elections employee has given you the following tasks to complete the elction audit of a recent local congressional election. 
+A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election. 
 
 1. Calculate the total number of votes.
 2. Get a complete list of candidates who received votes. 
@@ -29,7 +31,7 @@ The analysis of the election show that:
 
 ## Challenges overview 
 
-You are asked by the election commission to confirm the voter turnout for each county that voted in this congressional district, by determining the number of votes that were cast from each county and the percentage of votes each county contributed to the election.
+Confirm the voter turnout for each county that voted in this congressional district, by determining the number of votes that were cast from each county and the percentage of votes each county contributed to the election.
 
 1. Create a list of counties
 2. Calculate the total number of votes in each county
