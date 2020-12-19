@@ -1,4 +1,4 @@
-![capitol](/Resources/capitol.jpg)
+![capitol](C:\Users\laura\Documents\BootCamp\Module_3\Elections_Analysis\Resources\capitol.jpg)
 
 # Elections_Analysis
 
